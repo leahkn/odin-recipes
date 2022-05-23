@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(184, 117, 121);
+    font-family:  "Lucida Console", Papyrus, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    color: rgb(204, 117, 121);
+}
+
+p,
+.text {
+    font-family: "Lucida Console", sans-serif;
+}
+
